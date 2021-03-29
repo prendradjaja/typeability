@@ -1,3 +1,5 @@
+Command-line visualization of how easy/hard it is to type some text in a given keyboard layout.
+
 Asterisks represent when you would have to use the same finger twice in a row when typing (if you're typing the "textbook correct" way), which is slow (a good keyboard layout tries to avoid / reduce this).
 
 Can be easily configured (requires editing the source code, though) to work with:
